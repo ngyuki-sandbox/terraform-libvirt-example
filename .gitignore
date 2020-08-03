@@ -1,0 +1,6 @@
+.terraform/
+.terraform.tfstate.*
+terraform.tfstate
+terraform.tfstate.*
+ssh_authorized_keys
+*.qcow2
